@@ -1,0 +1,3 @@
+
+
+cat test_file_egy.ar | java -jar FarasaSegmenterJar.jar -n false -c atb > test_file_egy.ar.tok.atb
